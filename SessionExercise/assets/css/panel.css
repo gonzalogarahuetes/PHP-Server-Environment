@@ -1,0 +1,50 @@
+.welcome-title {
+  font-size: 3rem;
+}
+
+.bgimage {
+  background-image: url("../img/La\ peste\ a\ Firenze\ n'ell\ 1630\ -\ Anónimo.jpg");
+  background-repeat: no-repeat;
+  width: 44rem;
+  height: 34rem;
+  align-self: center;
+  margin: auto;
+}
+
+.foot-text {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.logout {
+  display: flex;
+  justify-content: center;
+}
+
+.logout__text {
+  color: red;
+  font-size: 1.5rem;
+}
+
+.logout__btn {
+  cursor: pointer;
+  padding: 0.5rem;
+  height: 2.5rem;
+  width: 6rem;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 0.3rem;
+  transition: 0.3s;
+  margin-top: 1.7rem;
+  margin-left: 1rem;
+}
+
+.logout__btn a {
+  text-decoration: none;
+  color: white;
+}
+
+.logout__btn:hover {
+  background-color: red;
+  border: 1px solid black;
+}
