@@ -48,3 +48,15 @@
   background-color: red;
   border: 1px solid black;
 }
+
+.logout__info {
+  height: 10%;
+  width: 20%;
+  padding: 2rem;
+  margin: 2rem auto;
+  background-color: lightgreen;
+  border: 1px solid darkgreen;
+  border-radius: 0.3rem;
+  color: black;
+  font-size: 1.5rem;
+}
