@@ -30,7 +30,7 @@ function destroyCookie()
 
 function checkUser($username, $password)
 {
-    $emaildb = "ggarahuetes";
+    $emaildb = "newUser";
     $passworddb = "123456";
 
 
