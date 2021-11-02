@@ -3,4 +3,4 @@ Small login webpage with php basics. The application fakes a database with usern
 
 
 # User
-To use the fake database, just log in with the user "newUser" and the password "123456". The app logs you in and gives the option of loggin out as well. 
+To use the fake database, just log in with the user "newUser" and the password "123456". The app logs you in and gives the option of logging out as well. 
